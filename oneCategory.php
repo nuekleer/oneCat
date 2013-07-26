@@ -4,7 +4,7 @@ Plugin Name: One Category Per Post
 Plugin URI: https://github.com/nuekleer/oneCat
 Description: Limit posts to one category. 
 Author: Matt Christensen
-Version: 1.0
+Version: 1.1
 Author URI: http://www.mattchristensen.net
 */
 
